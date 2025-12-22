@@ -1,6 +1,6 @@
 # ETL HubSpot Service
 
-A robust ETL (Extract, Transform, Load) service for extracting data from HubSpot CRM and loading it into a SQL Server database.
+A robust service for extracting data from HubSpot CRM and loading it into a SQL Server database.
 
 ## Overview
 
